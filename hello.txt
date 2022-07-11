@@ -16,3 +16,4 @@ hello yaojixing, hello git!
 hello yaojixing, hello git! master hot-fix
 hello yaojixing, hello git!
 
+hello, this message is from gitHub!
