@@ -13,6 +13,6 @@ hello yaojixing, hello git!
 hello yaojixing, hello git!
 hello yaojixing, hello git!
 hello yaojixing, hello git!
-hello yaojixing, hello git!
+hello yaojixing, hello git! hot-fix
 hello yaojixing, hello git!
 
